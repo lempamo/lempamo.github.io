@@ -5,9 +5,11 @@ div.header {
 }
 div.link-box {
 	color: #BBBBBB;
+}
+.link-box p {
 	display: inline-block;
 }
 a.link {
 	color: #555555;
-	font-style:;
+	display: inline-block;
 }
