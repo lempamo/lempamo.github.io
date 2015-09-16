@@ -3,7 +3,7 @@ div.header {
 	font-family: Corbel;
 	font-style: bold;
 }
-.link-box p {
+div.link-box p {
 	color: #BBBBBB;
 	display: inline-block;
 }
