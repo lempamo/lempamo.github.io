@@ -1,4 +1,12 @@
 div.header {
 	text-align: center;
 	font-family: Corbel;
+	font-style: bold;
+}
+p.link-box {
+	color: #BBBBBB
+}
+a.link {
+	color: #555555;
+	font-style:;
 }
