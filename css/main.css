@@ -3,7 +3,7 @@ div.header {
 	font-family: Corbel;
 	font-style: bold;
 }
-div.link-box p {
+p.dead-link {
 	color: #BBBBBB;
 	display: inline-block;
 	padding: 0px 15px;
