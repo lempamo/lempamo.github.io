@@ -3,10 +3,8 @@ div.header {
 	font-family: Corbel;
 	font-style: bold;
 }
-div.link-box {
-	color: #BBBBBB;
-}
 .link-box p {
+	color: #BBBBBB;
 	display: inline-block;
 }
 a.link {
