@@ -1,0 +1,8 @@
+
+http://lempamo.github.io/atom.xml
+http://lempamo.github.io/index.html
+http://lempamo.github.io/pages.html
+http://lempamo.github.io/rss.xml
+http://lempamo.github.io/sitemap.txt
+
+http://lempamo.github.io/2015/10/24/here-i-am

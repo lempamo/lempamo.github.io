@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>lempamo</title>
+ <link href="http://lempamo.github.io/atom.xml" rel="self"/>
+ <link href="http://lempamo.github.io"/>
+ <updated>2015-10-25T01:55:32-04:00</updated>
+ <id>http://lempamo.github.io</id>
+ <author>
+   <name>lempamo</name>
+   <email>lempamo@outlook.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Here I am.</title>
+   <link href="http://lempamo.github.io/2015/10/24/here-i-am"/>
+   <updated>2015-10-24T00:00:00-04:00</updated>
+   <id>http://lempamo.github.io/2015/10/24/here-i-am</id>
+   <content type="html">
+&lt;p&gt;Hello there!&lt;/p&gt;
+
+&lt;p&gt;I am lempamo. And I program things, play games, and do whatever I like.&lt;/p&gt;
+
+&lt;p&gt;Right now, I’m working on a One Game A Month Challenge from the past. It should come out in a week or so from now.&lt;/p&gt;
+
+&lt;p&gt;Now I know this post is short, but I got work to do. See you in the next post!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
