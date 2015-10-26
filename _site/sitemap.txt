@@ -1,10 +1,12 @@
 
 http://lempamo.github.io/archive.html
 http://lempamo.github.io/atom.xml
-http://lempamo.github.io/games.html
+http://lempamo.github.io/games/index.html
 http://lempamo.github.io/index.html
 http://lempamo.github.io/info.html
+http://lempamo.github.io/games/procedural.html
 http://lempamo.github.io/rss.xml
 http://lempamo.github.io/sitemap.txt
 
+http://lempamo.github.io/2015/10/25/1gam-grow-complete
 http://lempamo.github.io/2015/10/24/here-i-am

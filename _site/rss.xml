@@ -5,10 +5,28 @@
         <description>lempamo - lempamo</description>
         <link>http://lempamo.github.io</link>
         <atom:link href="http://lempamo.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 25 Oct 2015 11:19:31 -0400</lastBuildDate>
-        <pubDate>Sun, 25 Oct 2015 11:19:31 -0400</pubDate>
+        <lastBuildDate>Sun, 25 Oct 2015 22:12:20 -0400</lastBuildDate>
+        <pubDate>Sun, 25 Oct 2015 22:12:20 -0400</pubDate>
         <ttl>60</ttl>
 
+
+        <item>
+                <title>#1GAM &#39;Grow&#39; complete! </title>
+                <description>
+&lt;p&gt;That was quick.&lt;/p&gt;
+
+&lt;p&gt;I just completed my #1GAM from the past. It’s called “Procedural”.&lt;/p&gt;
+
+&lt;p&gt;You can find it in the games section at the top.&lt;/p&gt;
+
+&lt;p&gt;Also, I plan to do more of these #1GAM challenges. So expect some more soon.&lt;/p&gt;
+
+&lt;p&gt;See you next time!&lt;/p&gt;
+</description>
+                <link>http://lempamo.github.io/2015/10/25/1gam-grow-complete</link>
+                <guid>http://lempamo.github.io/2015/10/25/1gam-grow-complete</guid>
+                <pubDate>Sun, 25 Oct 2015 00:00:00 -0400</pubDate>
+        </item>
 
         <item>
                 <title>Here I am.</title>
