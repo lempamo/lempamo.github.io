@@ -9,7 +9,6 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : lempamo
-header-img : images/lempamo_logo_long.png
 tagline: lempamo's rambling and shenanigans
 author :
   name : lempamo
