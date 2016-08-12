@@ -2,9 +2,58 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Title</title>
+        <title>alchemy.</title>
+        <style>
+            h1.category-title {
+                font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+                float: left;
+            }
+            h2.amount {
+                font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+                text-align: right;
+                float: right;
+            }
+            .element img {
+                height: 76px;
+                width: 76px;
+                padding: 2px 2px 0;
+            }
+            header {
+                height: 70px;
+                border-bottom: solid black 2px;
+            }
+            div.element {
+                width: 80px;
+                border-radius: 25%;
+                border: solid black 2px;
+                margin: 5px;
+                background-color: #d3d3d3;
+            }
+            p.element-title {
+                text-align: center;
+                font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+                margin-top: 0;
+            }
+            div.category {
+                width: inherit;
+                min-height: 170px;
+                padding: 5px;
+            }
+            div#c-air {
+                background-color: lightcyan;
+            }
+        </style>
+        <link rel="script" href="main.js">
     </head>
     <body>
-
+        <div class="category" id="c-air">
+            <header>
+                <h1 class="category-title" id="t-air">air</h1><h2 class="amount" id="a-air">1/1</h2>
+            </header>
+            <div class="element" id="air">
+                <img alt="air" src="images/air.png">
+                <p class="element-title" id="et-air">air</p>
+            </div>
+        </div>
     </body>
 </html>
